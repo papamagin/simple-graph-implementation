@@ -1,8 +1,10 @@
-package maginab.graph.model;
+package maginab.graph;
 
 import java.util.List;
 
-import maginab.graph.GraphHelper;
+import maginab.graph.model.DirectedGraph;
+import maginab.graph.model.Graph;
+import maginab.graph.model.UndirectedGraph;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

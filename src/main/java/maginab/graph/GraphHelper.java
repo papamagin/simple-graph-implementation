@@ -10,11 +10,8 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.Queue;
 import java.util.Set;
-import java.util.concurrent.atomic.AtomicBoolean;
-import java.util.concurrent.atomic.AtomicReference;
 
 import maginab.graph.model.Graph;
-import maginab.graph.model.GraphType;
 
 public class GraphHelper {
 
